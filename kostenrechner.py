@@ -56,6 +56,6 @@ if __name__ == "__main__":
     print("Kosten für Elektrofahrzeug:", kosten_elektro, "Euro")
 
     print("Bei 221 Arbeitstagen pro Jahr:")
-    print(kosten_verbrennung * 221)
-    print(kosten_diesel * 221)
-    print(kosten_elektro * 221)
+    print(kosten_verbrennung * 221, "Euro")
+    print(kosten_diesel * 221, "Euro")
+    print(kosten_elektro * 221, "Euro")
